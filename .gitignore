@@ -1,0 +1,12 @@
+# Build files
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+
+# Directories
+classes/
+docs/
