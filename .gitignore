@@ -10,3 +10,6 @@
 # Directories
 classes/
 docs/
+
+# Project directories
+.idea/
