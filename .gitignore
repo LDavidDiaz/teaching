@@ -3,12 +3,18 @@
 *.log
 *.nav
 *.out
+*.sdf
+*.sln
 *.snm
+*.suo
 *.synctex.gz
 *.toc
+*.user
+*.vcxproj*
 
 # Directories
 classes/
+Debug/
 docs/
 *-build/
 
