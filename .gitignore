@@ -2,6 +2,7 @@
 *.aux
 *.log
 *.nav
+*.opensdf
 *.out
 *.sdf
 *.sln
