@@ -21,3 +21,6 @@ docs/
 
 # Project directories
 .idea/
+
+# Temporary files
+*~
